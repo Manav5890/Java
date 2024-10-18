@@ -1,0 +1,11 @@
+public class Var1{
+	public static void main(String[] args){
+	
+	int marks;
+	int percentage;
+	int rollno;
+	int Classno;
+	int age;
+
+}
+}
